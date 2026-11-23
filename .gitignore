@@ -1,0 +1,35 @@
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+.vite/
+
+# Python
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Database & runtime files
+*.db
+*.db-shm
+*.db-wal
+smartgrid.db
+
+# Archives
+app.tar.gz
+
+# Environment variables
+.env
+.env.local
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
